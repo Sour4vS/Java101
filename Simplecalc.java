@@ -1,4 +1,4 @@
-package sour4v.java;
+//Simple calculator that can perform addition,subtraction,multiplication & division of 2 numbers*package sour4v.java;
 
 import java.util.Scanner;
 
