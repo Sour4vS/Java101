@@ -1,5 +1,4 @@
 package sour4v.java;
-
 import java.util.Random;
 import java.util.Scanner;
 
